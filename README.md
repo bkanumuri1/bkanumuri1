@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is **Bhavana**! I'm a graduate student majoring in Software Engineering (May 2023). I'm looking for full-time, internship or co-op oppurtunities in software development and cloud development. 
+This is **Bhavana**!
 
 - 🔭 I’m currently working on getting certified as an AWS Cloud Practitioner
 - 🌱 I’m currently learning about system design!
