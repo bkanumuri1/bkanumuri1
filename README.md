@@ -8,4 +8,4 @@ This is **Bhavana**!
 - 💬 Ask me about python, javascript, angular, react.js, docker, agile methodologies, the cloud or Amazon Web Services!
 - 📫 How to reach me: https://www.linkedin.com/in/bhavanakanumuri/ 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a bachelor's in electronics and communication engineering 
+
